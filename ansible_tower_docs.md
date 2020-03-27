@@ -5,6 +5,7 @@
 $ source /var/lib/awx/venv/ansible/bin/activate
 $ umask 0022
 $ pip install requests
+$ pip install pysnow
 ```
 
 
